@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:kasie_transie_library/utils/functions.dart';
 import 'package:kasie_transie_library/utils/navigator_utils_old.dart';
-import 'package:marshal100/ui/dashboard.dart';
+import 'package:marshal100x/ui/dashboard.dart';
 import 'package:responsive_builder/responsive_builder.dart';
 import 'package:kasie_transie_library/data/data_schemas.dart' as lib;
 

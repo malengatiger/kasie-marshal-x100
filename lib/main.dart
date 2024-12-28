@@ -1,20 +1,15 @@
 import 'package:flutter/material.dart';
 import 'package:kasie_transie_library/utils/functions.dart';
-import 'package:kasie_transie_library/widgets/scanners/kasie/last_scanner_widget.dart';
-import 'package:marshal100/intro/kasie_intro.dart';
 
 import 'package:animated_splash_screen/animated_splash_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart' as fb;
 import 'package:firebase_core/firebase_core.dart';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:firebase_storage/firebase_storage.dart' as store;
-import 'package:flutter/material.dart';
 import 'package:kasie_transie_library/bloc/register_services.dart';
 import 'package:kasie_transie_library/bloc/theme_bloc.dart';
 import 'package:kasie_transie_library/data/data_schemas.dart' as lib;
 import 'package:kasie_transie_library/messaging/fcm_bloc.dart';
-import 'package:kasie_transie_library/utils/functions.dart';
-import 'package:kasie_transie_library/utils/prefs.dart';
 import 'package:page_transition/page_transition.dart';
 import 'package:get_it/get_it.dart';
 import 'firebase_options.dart';
@@ -27,7 +22,7 @@ late KasieThemeManager kasieThemeManager;
 lib.User? me;
 int themeIndex = 0;
 
-const mx = '🔵🔵🔵🔵🔵🔵🔵🔵🔵🔵 🐸 KasieTransie Marshal App 🐸 🔵🔵';
+const mx = '🔵🔵🔵🔵🔵🍊🍊 🐸 KasieTransie Marshal App 🐸 🍊🍊🍊🍊';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();

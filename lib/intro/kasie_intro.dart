@@ -1,6 +1,8 @@
 import 'package:dots_indicator/dots_indicator.dart';
 import 'package:firebase_auth/firebase_auth.dart' as fb;
 import 'package:flutter/material.dart';
+import 'package:get_it/get_it.dart';
+import 'package:kasie_transie_library/auth/email_auth_signin.dart';
 import 'package:kasie_transie_library/auth/phone_auth_signin2.dart';
 import 'package:kasie_transie_library/bloc/app_auth.dart';
 import 'package:kasie_transie_library/bloc/data_api_dog.dart';
@@ -8,11 +10,8 @@ import 'package:kasie_transie_library/data/constants.dart';
 import 'package:kasie_transie_library/data/data_schemas.dart';
 import 'package:kasie_transie_library/utils/emojis.dart';
 import 'package:kasie_transie_library/utils/functions.dart';
-import 'package:kasie_transie_library/auth/email_auth_signin.dart';
 import 'package:kasie_transie_library/utils/navigator_utils.dart';
-import 'package:get_it/get_it.dart';
 import 'package:kasie_transie_library/utils/prefs.dart';
-import 'package:page_transition/page_transition.dart';
 
 import '../ambassador_ui/ambassador_dashboard.dart';
 import '../ui/dashboard.dart';
@@ -43,6 +42,7 @@ class KasieIntroState extends State<KasieIntro>
   // mrm.User? user;
   String? signInFailed;
   User? user;
+
   @override
   void initState() {
     _controller = AnimationController(vsync: this);
@@ -98,20 +98,20 @@ class KasieIntroState extends State<KasieIntro>
     pp('$mm ... onSignInWithPhone ....');
     _clearUser();
     NavigationUtils.navigateTo(
-        context: context,
-        widget: PhoneAuthSignin(
-          onGoodSignIn: () {
-            pp('$mm ................................'
-                '... onGoodSignIn .... ');
-            onSuccessfulSignIn();
-          },
-          onSignInError: () {
-            pp('$mm ................................'
-                '... onSignInError ${E.redDot} .... ');
-            onFailedSignIn();
-          },
-        ),
-        );
+      context: context,
+      widget: PhoneAuthSignin(
+        onGoodSignIn: () {
+          pp('$mm ................................'
+              '... onGoodSignIn .... ');
+          onSuccessfulSignIn();
+        },
+        onSignInError: () {
+          pp('$mm ................................'
+              '... onSignInError ${E.redDot} .... ');
+          onFailedSignIn();
+        },
+      ),
+    );
   }
 
   onRegister() {
@@ -130,13 +130,15 @@ class KasieIntroState extends State<KasieIntro>
     if (user != null) {
       if (user!.userType == Constants.MARSHAL) {
         NavigationUtils.navigateTo(
-        context: context,
-        widget: MarshalDashboard(),);
+          context: context,
+          widget: MarshalDashboard(),
+        );
       }
       if (user!.userType == Constants.AMBASSADOR) {
         NavigationUtils.navigateTo(
           context: context,
-          widget: AmbassadorDashboard(),);
+          widget: AmbassadorDashboard(),
+        );
       }
     }
   }
@@ -154,16 +156,16 @@ class KasieIntroState extends State<KasieIntro>
       if (user!.userType! == Constants.MARSHAL) {
         pp('$mm _navigateToMarshalDashboard ...');
         NavigationUtils.navigateTo(
-            context: context,
-            widget: MarshalDashboard(),
-            );
+          context: context,
+          widget: MarshalDashboard(),
+        );
       }
       if (user!.userType! == Constants.AMBASSADOR) {
         pp('$mm navigate to AmbassadorDashboard ...');
         NavigationUtils.navigateTo(
-            context: context,
-            widget: AmbassadorDashboard(),
-            );
+          context: context,
+          widget: AmbassadorDashboard(),
+        );
       }
     }
   }
@@ -190,19 +192,6 @@ class KasieIntroState extends State<KasieIntro>
           'KasieTransie Marshal',
           style: myTextStyleLargeWithColor(context, color),
         ),
-        bottom: PreferredSize(
-            preferredSize: Size.fromHeight(authed ? 80 : 124),
-            child: Column(
-              children: [
-                Header(
-                    onSignInWithEmail: onSignInWithEmail,
-                    onSignInWithPhone: onSignInWithPhone,
-                    onRegister: onRegister),
-                const SizedBox(
-                  height: 12,
-                ),
-              ],
-            )),
       ),
       body: Stack(
         children: [
@@ -236,7 +225,7 @@ class KasieIntroState extends State<KasieIntro>
             ],
           ),
           Positioned(
-            bottom: 2,
+            bottom: 100,
             left: 48,
             right: 40,
             child: SizedBox(
@@ -268,6 +257,23 @@ class KasieIntroState extends State<KasieIntro>
               ),
             ),
           ),
+          Positioned(
+            bottom: 16,
+            left: 48,
+            right: 48,
+            child: ElevatedButton(
+              style: ButtonStyle(
+                  backgroundColor: WidgetStatePropertyAll(Colors.pink),
+                  elevation: WidgetStatePropertyAll(8)),
+              onPressed: () {
+                onSignInWithEmail();
+              },
+              child: Padding(
+                  padding: EdgeInsets.all(16),
+                  child:
+                      Text('Sign In', style: myTextStyle(color: Colors.white))),
+            ),
+          ),
         ],
       ),
     ));
@@ -282,6 +288,7 @@ class Header extends StatelessWidget {
       required this.onRegister});
 
   final Function onSignInWithEmail, onSignInWithPhone, onRegister;
+
   @override
   Widget build(BuildContext context) {
     return Card(
