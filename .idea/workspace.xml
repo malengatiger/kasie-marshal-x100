@@ -4,32 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="💪initial after repo change">
-      <change afterPath="$PROJECT_DIR$/.idea/csv-editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="🌎refactored all features">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/intro/intro_page_one.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/intro/intro_page_one.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/intro/kasie_intro.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/intro/kasie_intro.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/landing_page.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/landing_page.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ambassador_ui/ambassador_dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ambassador_ui/ambassador_dashboard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/ui/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/dashboard.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/auth/email_auth_signin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/auth/email_auth_signin.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/app_auth.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/app_auth.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/data_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/data_api_dog.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/prefs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/prefs.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/association_vehicle_photo_handler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/association_vehicle_photo_handler.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/cars_for_ambassador.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/cars_for_ambassador.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/the_great_geofencer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/the_great_geofencer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/vehicle_telemetry_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/vehicle_telemetry_service.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/dispatch_cluster_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/dispatch_cluster_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/live_cluster_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/live_cluster_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/vehicle_monitor_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/vehicle_monitor_map.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/zip_handler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/zip_handler.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/routes_for_ambassador.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/routes_for_ambassador.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/photo_handler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/photo_handler.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/auth/damn_email_link.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/auth/damn_email_link.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/live_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/live_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/route_activity.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/route_activity.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/car_details.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/car_details.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,11 +141,20 @@
       <option name="project" value="LOCAL" />
       <updated>1735204049867</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="🌎refactored all features">
+      <option name="closed" value="true" />
+      <created>1735382948094</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1735382948094</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial after repo change" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial after repo change" />
+    <MESSAGE value="refactored all features" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored all features" />
   </component>
 </project>
