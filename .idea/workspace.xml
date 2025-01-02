@@ -1,42 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="🌎refactored all features">
+    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="❤️refactored route api + geofence service  🔆 🔆">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162312.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162403.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162453.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162545.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162612.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162636.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162701.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162730.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162811.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162829.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162850.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162910.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163002.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163056.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163129.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163359.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163419.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163440.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163459.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163515.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163535.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163601.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163627.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163719.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163737.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163845.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163928.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_164010.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ambassador_ui/ambassador_dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ambassador_ui/ambassador_dashboard.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/ui/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/ui/dashboard.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/auth/email_auth_signin.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/auth/email_auth_signin.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/data_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/data_api_dog.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/the_great_geofencer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/the_great_geofencer.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/vehicle_telemetry_service.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/vehicle_telemetry_service.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/data/data_schemas.g.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/dispatch_cluster_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/dispatch_cluster_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/live_cluster_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/cluster_maps/live_cluster_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/vehicle_monitor_map.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/vehicle_monitor_map.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/zip_handler.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/zip_handler.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/routes_for_ambassador.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/ambassador/routes_for_ambassador.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/auth/damn_email_link.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/auth/damn_email_link.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/live_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/live_widget.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/route_activity.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/route_widgets/route_activity.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/car_details.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/car_details.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -44,7 +55,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../new_library/kasie_transie_library" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -58,6 +69,9 @@
     &quot;accountId&quot;: &quot;c315e98f-b1c9-485f-8a6e-fd7d05383bae&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -73,11 +87,17 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "Flutter.main.dart.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "ScreenshotViewer.SavePath": "/Users/aubreymalabie/Work/MLB/kasie/kasie-marshal-x100/screenshots",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "mbranch",
+    "git-widget-placeholder": "main",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/aubreymalabie/Work/MLB/kasie/kasie-marshal-x100",
@@ -119,10 +139,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
-      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
-      <method v="2" />
-    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -149,12 +165,31 @@
       <option name="project" value="LOCAL" />
       <updated>1735382948094</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="❤️refactored route api + geofence service ☘">
+      <option name="closed" value="true" />
+      <created>1735725249239</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1735725249239</updated>
+    </task>
+    <task id="LOCAL-00004" summary="❤️refactored route api + geofence service  🔆 🔆">
+      <option name="closed" value="true" />
+      <created>1735725305625</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1735725305625</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial after repo change" />
     <MESSAGE value="refactored all features" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactored all features" />
+    <MESSAGE value="❤️refactored route api + geofence service" />
+    <MESSAGE value="❤️refactored route api + geofence service ☘" />
+    <MESSAGE value="❤️refactored route api + geofence service   " />
+    <option name="LAST_COMMIT_MESSAGE" value="❤️refactored route api + geofence service   " />
   </component>
 </project>
