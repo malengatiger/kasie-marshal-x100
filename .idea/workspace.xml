@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="❤️refactored route caching">
+    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="💪refactored map + route caching">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/sem_cache.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/map_viewer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/map_viewer.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/prefs.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/prefs.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/timer_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/timer_widget.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/vehicle_search.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/vehicle_search.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -191,7 +185,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736330244110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="💪refactored map + route caching">
+      <option name="closed" value="true" />
+      <created>1736337363268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1736337363268</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -203,6 +205,7 @@
     <MESSAGE value="added screenshots  " />
     <MESSAGE value="added fcm for commuter requests" />
     <MESSAGE value="❤️refactored route caching" />
-    <option name="LAST_COMMIT_MESSAGE" value="❤️refactored route caching" />
+    <MESSAGE value="refactored map + route caching" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored map + route caching" />
   </component>
 </project>
