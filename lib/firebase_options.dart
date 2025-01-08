@@ -47,21 +47,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDcAXlT6hoou41oEgIbjRTCagAJzBTsZIM',
-    appId: '1:854189510560:web:4e6e9f73ae347af536dec5',
-    messagingSenderId: '854189510560',
-    projectId: 'kasie-transie-3',
-    authDomain: 'kasie-transie-3.firebaseapp.com',
-    storageBucket: 'kasie-transie-3.appspot.com',
-    measurementId: 'G-BQW5ZWEKB4',
+    apiKey: 'AIzaSyAbBpkSCLwy2p4dimBjXNh5XXIiQSz9FnI',
+    appId: '1:657690570978:web:eb0213c719834e4a646ebb',
+    messagingSenderId: '657690570978',
+    projectId: 'kasie-transie-4',
+    authDomain: 'kasie-transie-4.firebaseapp.com',
+    storageBucket: 'kasie-transie-4.firebasestorage.app',
+    measurementId: 'G-HH2PQG54B2',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB3finIgPi481q3-GaEDjOLcoPbs664gTs',
-    appId: '1:854189510560:android:a651883dbc28b8e236dec5',
-    messagingSenderId: '854189510560',
-    projectId: 'kasie-transie-3',
-    storageBucket: 'kasie-transie-3.appspot.com',
+    apiKey: 'AIzaSyD5AGxqLVyDNjRoRRDYVcnBq6_HMPAu3MU',
+    appId: '1:657690570978:android:3ac7b42afcbc67db646ebb',
+    messagingSenderId: '657690570978',
+    projectId: 'kasie-transie-4',
+    storageBucket: 'kasie-transie-4.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(

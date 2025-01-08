@@ -4,42 +4,25 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="❤️refactored route api + geofence service  🔆 🔆">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162312.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162403.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162453.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162545.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162612.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162636.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162701.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162730.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162811.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162829.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162850.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_162910.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163002.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163056.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163129.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163359.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163419.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163440.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163459.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163515.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163535.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163601.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163627.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163719.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163737.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163845.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_163928.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/Screenshot_20250102_164010.png" afterDir="false" />
+    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="added screenshots 🔆 🔆">
+      <change afterPath="$PROJECT_DIR$/lib/utils/marshal_sem_cache.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/marshal_sem_cache.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firebase.json" beforeDir="false" afterPath="$PROJECT_DIR$/firebase.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/firebase_options.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/firebase_options.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/list_api_dog.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc/register_services.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/messaging/fcm_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/device_location_bloc.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/utils/device_location_bloc.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/cars_for_dispatch.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/vehicle_widgets/routes_for_dispatch.dart" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +38,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../new_library/kasie_transie_library" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -76,6 +59,9 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2qkPs09D2TWathvhTlNiNdX5QtG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectReloadState">
     <option name="STATE" value="1" />
   </component>
@@ -97,17 +83,23 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "mbranch",
     "io.flutter.reload.alreadyRun": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/aubreymalabie/Work/MLB/kasie/kasie-marshal-x100",
+    "last_opened_file_path": "/Users/aubreymalabie/Work/MLB/kasie/new_library/kasie_transie_library/lib/bloc",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.lookFeel",
     "show.migrate.to.gradle.popup": "false"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/bloc" />
+      <recent name="$PROJECT_DIR$/lib/utils" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="AZURE_FUNCTION_SUPPORT" factoryName="Run Functions">
       <option name="appName" />
@@ -138,6 +130,10 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -181,7 +177,23 @@
       <option name="project" value="LOCAL" />
       <updated>1735725305625</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="added screenshots 🔆 🔆">
+      <option name="closed" value="true" />
+      <created>1735853797104</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1735853797104</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added screenshots 🔆 🔆">
+      <option name="closed" value="true" />
+      <created>1735853842451</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1735853842451</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -190,6 +202,7 @@
     <MESSAGE value="❤️refactored route api + geofence service" />
     <MESSAGE value="❤️refactored route api + geofence service ☘" />
     <MESSAGE value="❤️refactored route api + geofence service   " />
-    <option name="LAST_COMMIT_MESSAGE" value="❤️refactored route api + geofence service   " />
+    <MESSAGE value="added screenshots  " />
+    <option name="LAST_COMMIT_MESSAGE" value="added screenshots  " />
   </component>
 </project>
