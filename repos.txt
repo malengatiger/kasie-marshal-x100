@@ -1,0 +1,7 @@
+https://github.com/malengatiger/kasie-transie-commuter-2025
+https://github.com/malengatiger/kasie_transie_ambassador
+https://github.com/malengatiger/kasie_transie_library/tree/mbranch
+https://github.com/malengatiger/kasie-transie-car-telemetry
+https://github.com/malengatiger/kasie-marshal-x100
+https://github.com/malengatiger/kasietransie_nestjs_new_age
+https://github.com/malengatiger/routes-2024
