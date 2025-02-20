@@ -5,7 +5,7 @@ MARSHAL APP
 Android Only
 
 ## Description
-This app is installed inside a car using a dash-mounted Android device or installed on a phone that should always in the car.
+This app helps the Marshal at the Taxi Rank manage Dispatches and Rank Fees.
 
 ### Sign Up and Start Dispatching Taxis
 <img width="1065" alt="Screenshot 2025-02-20 at 15 36 05" src="https://github.com/user-attachments/assets/cba03efb-7652-4621-9b99-554c6d045a86" />
