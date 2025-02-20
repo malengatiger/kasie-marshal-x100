@@ -6,3 +6,12 @@ Android Only
 
 ## Description
 This app is installed inside a car using a dash-mounted Android device or installed on a phone that should always in the car.
+
+### Sign Up and Start Dispatching Taxis
+<img width="1065" alt="Screenshot 2025-02-20 at 15 36 05" src="https://github.com/user-attachments/assets/cba03efb-7652-4621-9b99-554c6d045a86" />
+
+### Select Route and Taxi
+<img width="1107" alt="Screenshot 2025-02-20 at 15 45 08" src="https://github.com/user-attachments/assets/eac1e3ff-d41a-48ee-8408-399cc38918bc" />
+
+## Dispatch Taxi
+<img width="1083" alt="Screenshot 2025-02-20 at 15 52 04" src="https://github.com/user-attachments/assets/92e78076-298b-417d-bde5-dc58dd44c610" />
