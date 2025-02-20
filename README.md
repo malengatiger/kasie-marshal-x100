@@ -14,4 +14,4 @@ This app helps the Marshal at the Taxi Rank manage Dispatches and Rank Fees.
 <img width="1107" alt="Screenshot 2025-02-20 at 15 45 08" src="https://github.com/user-attachments/assets/eac1e3ff-d41a-48ee-8408-399cc38918bc" />
 
 ## Dispatch Taxi
-<img width="1083" alt="Screenshot 2025-02-20 at 15 52 04" src="https://github.com/user-attachments/assets/92e78076-298b-417d-bde5-dc58dd44c610" />
+<img width="1096" alt="Screenshot 2025-02-20 at 15 59 57" src="https://github.com/user-attachments/assets/9aaf3fe4-d287-4588-ae27-07c1466d7dfd" />
