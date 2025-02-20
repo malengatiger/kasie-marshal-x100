@@ -4,20 +4,31 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment=" ✅refactored requests api">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="d091a6b5-df6a-4e3f-8763-1c1f1203e72a" name="Changes" comment="🍎🍎clean up">
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/libraries/Dart_Packages.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/libraries/Flutter_Plugins.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/libraries/Flutter_Plugins.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/android/app/src/main/kotlin/com/boha/kasie_transie_marshal/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/android/app/src/main/kotlin/com/boha/kasie_transie_marshal/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/android/kasie_transie_marshal_android.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/android/kasie_transie_marshal_android.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/kasie_transie_marshal.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/kasie_transie_marshal.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/lib/ambassador_ui/ambassador_dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/lib/ambassador_ui/ambassador_dashboard.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/lib/main.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/lib/ui/dashboard.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/lib/ui/dashboard.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/windows/flutter/generated_plugin_registrant.cc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kasie_transie_marshal/windows/flutter/generated_plugins.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../kasie_transie_marshal/windows/flutter/generated_plugins.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/android/app/src/main/java/io/flutter/plugins/GeneratedPluginRegistrant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/ios/Runner/GeneratedPluginRegistrant.m" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/ios/Runner/GeneratedPluginRegistrant.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/kasie_transie_library.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/route_map_viewer.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/maps/route_map_viewer.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/dash_widgets/generic.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/lib/widgets/dash_widgets/generic.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/linux/flutter/ephemeral/.plugin_symlinks/file_picker" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../new_library/kasie_transie_library/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +44,7 @@
     </projectState>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../new_library/kasie_transie_library" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -78,13 +89,13 @@
     &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;mbranch&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;io.flutter.reload.alreadyRun&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/aubreymalabie/Work/MLB/kasie/new_library/kasie_transie_library/lib/bloc&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/aubreymalabie/Work/MLB/kasie/kasie-marshal-x100&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.31954023&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
@@ -228,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736367349143</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="🍎🍎clean up">
+      <option name="closed" value="true" />
+      <created>1736715627082</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1736715627082</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -243,6 +262,7 @@
     <MESSAGE value="refactored map + route caching" />
     <MESSAGE value="flitering ahoy!" />
     <MESSAGE value=" ✅refactored requests api" />
-    <option name="LAST_COMMIT_MESSAGE" value=" ✅refactored requests api" />
+    <MESSAGE value="clean up" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean up" />
   </component>
 </project>
